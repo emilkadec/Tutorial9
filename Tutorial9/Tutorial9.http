@@ -1,0 +1,23 @@
+@Tutorial9_HostAddress = http://localhost:5027
+
+### Add product to warehouse
+POST {{Tutorial9_HostAddress}}/api/warehouse
+Content-Type: application/json
+
+{
+  "IdProduct": 1,
+  "IdWarehouse": 1,
+  "Amount": 125,
+  "CreatedAt": "2023-05-11T12:00:00"
+}
+
+### Add product to warehouse using stored procedure
+POST {{Tutorial9_HostAddress}}/api/warehouse/usingproc
+Content-Type: application/json
+
+{
+  "IdProduct": 1,
+  "IdWarehouse": 1,
+  "Amount": 125,
+  "CreatedAt": "2023-05-11T12:00:00"
+}

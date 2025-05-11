@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yB2qrsEtQSA=",
+  "dgSpecHash": "wU6Sdv1YvQM=",
   "success": true,
-  "projectFilePath": "/Users/emilka/Downloads/Tutorial9/Tutorial9/Tutorial9.csproj",
+  "projectFilePath": "/Users/emilka/Documents/GitHub/APBD-9/Tutorial9/Tutorial9/Tutorial9.csproj",
   "expectedPackageFiles": [
     "/Users/emilka/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/emilka/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

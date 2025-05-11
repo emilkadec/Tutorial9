@@ -1712,11 +1712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emilka/Downloads/Tutorial9/Tutorial9/Tutorial9.csproj",
+      "projectUniqueName": "/Users/emilka/Documents/GitHub/APBD-9/Tutorial9/Tutorial9/Tutorial9.csproj",
       "projectName": "Tutorial9",
-      "projectPath": "/Users/emilka/Downloads/Tutorial9/Tutorial9/Tutorial9.csproj",
+      "projectPath": "/Users/emilka/Documents/GitHub/APBD-9/Tutorial9/Tutorial9/Tutorial9.csproj",
       "packagesPath": "/Users/emilka/.nuget/packages/",
-      "outputPath": "/Users/emilka/Downloads/Tutorial9/Tutorial9/obj/",
+      "outputPath": "/Users/emilka/Documents/GitHub/APBD-9/Tutorial9/Tutorial9/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emilka/.nuget/NuGet/NuGet.Config"
